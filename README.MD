@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação no CEUB, apaixonada por tecnologia
 Projeto profissional- TCC: Plano de Negócios - Loja de Doces
 
 Projeto pessoal - Tabela Checklist em Python
-Aplicativo simples para marcar e desmarcar tarefas diárias em Python.
+Aplicativo simples para marcar e desmarcar tarefas diárias em Python. 
 
 ## Contato
 - Email: dhamyllesantos9@gmail.com
