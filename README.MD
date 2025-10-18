@@ -6,18 +6,13 @@ Sou estudante de Ciência da Computação no CEUB, apaixonada por tecnologia
 - Ciência da Computação - CEUB (1º semestre)
 - Técnico em Administração - CEEP Águas
 
-## Projetos
+## Estrutura
+Projeto profissional- TCC: Plano de Negócios - Loja de Doces
 
-### TCC: Plano de Negócios - Loja de Doces
-Plano de negócios com análise de mercado, planejamento financeiro e estratégias de gestão.
-
-### Tabela Checklist em Python
+Projeto pessoal - Tabela Checklist em Python
 Aplicativo simples para marcar e desmarcar tarefas diárias em Python.
 
 ## Contato
 - Email: dhamyllesantos9@gmail.com
 - LinkedIn: https://www.linkedin.com/in/damylle-oliveira-96b153378/
 
-###Estrutura
--Projeto profissionaal, tcc plano de negocios 
--
