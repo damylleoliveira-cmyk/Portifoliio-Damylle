@@ -16,4 +16,8 @@ Aplicativo simples para marcar e desmarcar tarefas diárias em Python.
 
 ## Contato
 - Email: dhamyllesantos9@gmail.com
-- LinkedIn: [linkedin.com/in/damylle-oliveira](https://linkedin.com/in/damylle-oliveira)
+- LinkedIn: https://www.linkedin.com/in/damylle-oliveira-96b153378/
+
+###Estrutura
+-Projeto profissionaal, tcc plano de negocios 
+-
