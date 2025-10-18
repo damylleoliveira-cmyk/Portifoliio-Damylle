@@ -1,4 +1,5 @@
-# Portfólio de Damylle dos Santos Oliveira
+# Portfólio 
+ Este repositório contém projetos acadêmicos e pessoais.
 
 ## Sobre mim
 Sou estudante de Ciência da Computação no CEUB, apaixonada por tecnologia
